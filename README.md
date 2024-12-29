@@ -15,6 +15,7 @@
 *💡Eu procuro envolver em projetos de inovações por meio da tecnologia
 
 *🙋🏼‍♂️Curiosidades sobre mim, Amo musculação e adoro assitir filmes e séries e sou bem eclético ao ouvir músicas. Sou muito comunicativo e gosto de conversar sobre evolução pessoal e também falar sobre inovavações e projetos revolucionários, que estão sendo criados ou ideias sobre os mesmos assuntos.
+
 🏢Sou calouro na faculdade e minha buddy que esta me acompanhando excelentemente é a [Ana Carolina](https://github.com/anacarolinajp)
 <div align="center">  
 <a href="https://www.instagram.com/Paulo.Buenof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a
