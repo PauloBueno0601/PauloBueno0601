@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBueno0601&layout=compact&hide_border=true&title_color=DCDCDC&text_color=00bfbf&bg_color=1C1C1C" />
 </div>
 
-*✈️Tenho 20 anos sou Natural de Goiás, mas atualmente estpu morando em São Paulo para cursar minha graduação
+*✈️Tenho 20 anos sou Natural de Goiás, mas atualmente estou morando em São Paulo para cursar minha graduação
 
 *👨🏼‍💻Estudante de Engenharia de Software no Instituto de Tecnologia e Liderança INTELI
 
