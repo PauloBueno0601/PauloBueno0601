@@ -7,17 +7,19 @@
 
 ## Curiosidades sobre mim
 
-*✈️Tenho 20 anos, sou Natural de Goiás, mas atualmente estou morando em São Paulo para cursar minha graduação. Sou estudante de Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI), uma instituição onde o futuro e a inovação se encontram.
+* ✈️ Tenho 20 anos, sou Natural de Goiás e atualmente estou morando em São Paulo para cursar minha graduação. Sou estudante de Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI), uma instituição onde o futuro e a inovação se encontram.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-*💻 Acredito profundamente que o esforço tem o poder de nos levar a lugares extraordinários e abrir portas para realizações que antes pareciam inalcançáveis, Estou no início de uma Jornada que considero revolucionária, tanto em termos de aprendizado quanto de impacto que desejo causar no mundo por meio da tecnologia.
+* 💻 Acredito profundamente que o esforço tem o poder de nos levar a lugares extraordinários e abrir portas para realizações que antes pareciam inalcançáveis, Estou no início de uma Jornada que considero revolucionária, tanto em termos de aprendizado quanto de impacto que desejo causar no mundo por meio da tecnologia.
 
-*💡 Meu objetivo é me envolver em projetos inovadores que utilizem tecnologia para transformar realidades, além de iniciativas voltadas ao empreendedorismo e negócios, no intuito de revolucionar o mercado e a vida das pessoas.
+* 💡 Meu objetivo é me envolver em projetos inovadores que utilizem tecnologia para transformar realidades, além de iniciativas voltadas ao empreendedorismo e negócios, no intuito de revolucionar o mercado e melhorar a vida das pessoas.
 
-*🙋🏼‍♂️ Amo musculação e adoro assistir filmes e séries e sou bem eclético ao ouvir músicas. Sou muito comunicativo e gosto de conversar sobre evolução pessoal e também falar sobre inovavações e projetos revolucionários, que estão sendo criados ou ideias sobre os mesmos assuntos. Acredito que o esforço pode nos levar a lugares incriveis
-#
-🏢Sou calouro na faculdade e minha buddy que esta me acompanhando excelentemente é a [Ana Carolina](https://github.com/anacarolinajp) 
-##
+* 🙋🏼‍♂️ Amo musculação, adoro assistir a filmes e séries e sou bem eclético ao ouvir músicas. Sou muito comunicativo, gosto de conversar sobre evolução pessoal e também sobre inovações e projetos revolucionários que estão sendo criados, ou discutir ideias relacionadas a esses temas. Acredito que o esforço pode nos levar a lugares incríveis.
+
+___
+
+* 🏢 Sou calouro na faculdade e minha buddy que está me acompanhando excelentemente é a [Ana Carolina](https://github.com/anacarolinajp).
+___
 
 
 
