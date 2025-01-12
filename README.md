@@ -7,7 +7,7 @@
 
 ## Curiosidades sobre mim
 
-* ✈️ Tenho 20 anos, sou Natural de Goiás e atualmente estou morando em São Paulo para cursar minha graduação. Sou estudante de Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI), uma instituição onde o futuro e a inovação se encontram.
+* ✈️ Tenho 20 anos, sou natural de Goiás e atualmente estou morando em São Paulo para cursar minha graduação. Sou estudante de Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI), uma instituição onde o futuro e a inovação se encontram.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 * 💻 Acredito profundamente que o esforço tem o poder de nos levar a lugares extraordinários e abrir portas para realizações que antes pareciam inalcançáveis, Estou no início de uma Jornada que considero revolucionária, tanto em termos de aprendizado quanto de impacto que desejo causar no mundo por meio da tecnologia.
