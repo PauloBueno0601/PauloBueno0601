@@ -10,7 +10,7 @@
 *✈️Tenho 20 anos, sou Natural de Goiás, mas atualmente estou morando em São Paulo para cursar minha graduação. Sou estudante de Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI), uma instituição onde o futuro e a inovação se encontram.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Acredito profundamentew que o esforço tem o poder de nos levar a lugares extraordinários e abrir portas para realizações que antes pareciam inalcançáveis, Estou no início de uma Jornada que considero revolucionária, tanto em termos de aprendizado quanto de impacto que desejo causar no mundo por meio da tecnologia.
+*💻 Acredito profundamentew que o esforço tem o poder de nos levar a lugares extraordinários e abrir portas para realizações que antes pareciam inalcançáveis, Estou no início de uma Jornada que considero revolucionária, tanto em termos de aprendizado quanto de impacto que desejo causar no mundo por meio da tecnologia.
 
 *💡 Meu objetivo é me envolver em projetos inovadores que utilizem tecnologia para transformar realidades, além de iniciativas voltadas ao empreendedorismo e negócios, no intuito de revolucionar o mercado e a vida das pessoas.
 
@@ -27,4 +27,5 @@ Acredito profundamentew que o esforço tem o poder de nos levar a lugares extrao
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBueno0601&layout=compact&hide_border=true&title_color=DCDCDC&text_color=00bfbf&bg_color=1C1C1C" />
 </div>
 
-## Obrigado pela visita
+## Obrigado pela visita!!!
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
