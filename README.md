@@ -14,7 +14,7 @@
 
 *💡 Meu objetivo é me envolver em projetos inovadores que utilizem tecnologia para transformar realidades, além de iniciativas voltadas ao empreendedorismo e negócios, no intuito de revolucionar o mercado e a vida das pessoas.
 
-*🙋🏼‍♂️ Amo musculação e adoro assitir filmes e séries e sou bem eclético ao ouvir músicas. Sou muito comunicativo e gosto de conversar sobre evolução pessoal e também falar sobre inovavações e projetos revolucionários, que estão sendo criados ou ideias sobre os mesmos assuntos. Acredito que o esforço pode nos levar a lugares incriveis
+*🙋🏼‍♂️ Amo musculação e adoro assistir filmes e séries e sou bem eclético ao ouvir músicas. Sou muito comunicativo e gosto de conversar sobre evolução pessoal e também falar sobre inovavações e projetos revolucionários, que estão sendo criados ou ideias sobre os mesmos assuntos. Acredito que o esforço pode nos levar a lugares incriveis
 #
 🏢Sou calouro na faculdade e minha buddy que esta me acompanhando excelentemente é a [Ana Carolina](https://github.com/anacarolinajp) 
 ##
