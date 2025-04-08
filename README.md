@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C1C1C&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+PAULO+HENRIQUE;+E+ESTUDO+ENGENHARIA+DE+SOFTWARE+NO+INTELI;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+PAULO+HENRIQUE;+E+ESTUDO+ENGENHARIA+DE+SOFTWARE+NO+INTELI;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg) 
 
 
 
@@ -18,8 +18,6 @@
 
 ___
 
-* 🏢 Sou calouro na faculdade e minha buddy que está me acompanhando excelentemente é a [Ana Carolina](https://github.com/anacarolinajp).
-___
 
 
 
